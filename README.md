@@ -1,1 +1,2 @@
 # pal
+echo "hello world"
